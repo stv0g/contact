@@ -1,0 +1,37 @@
+BEGIN:VCARD
+VERSION:3.0
+UID:pas-id-5312A19A00000000
+TEL;TYPE=CELL:+49 1575 7180927
+URL:http://www.steffenvogel.de
+TITLE:Cand.-Ing.
+ORG:RWTH Aachen University;;
+ROLE:Student
+NICKNAME:stv0g
+BDAY:1990-03-20
+FN:Steffen Vogel
+N:Vogel;Steffen;;Herr;
+GEO:50.781045;6.099009
+EXPERTISE;LEVEL=expert:Computer Science
+BIRTHPLACE;VALUE=text:Baden\, Schweiz
+KEY;TYPE=PGP:http://steffenvogel.de/key.gpg
+PHOTO;JPG:http://steffenvogel.de/profile.jpg
+CALURI:http://steffenvogel.de/calendar.ics
+FBURL:http://steffenvogel.de/calendar.ics
+SOURCE:http://steffenvogel.de/card.vcf
+GENDER:M
+ADR;TYPE=HOME:;;Robensstr. 69;Aachen;NRW;52070;Deutschland
+LABEL;TYPE=HOME:Robensstr. 69\nAachen\, NRW\n52070\nDeutschland
+ADR;TYPE=OTHER:;;Karlstraße 5;Griesheim;Hessen;64347;Deutschland
+LABEL;TYPE=OTHER:Karlstraße 5\nGriesheim\, Hessen\n64347\nDeutschland
+EMAIL;TYPE=INTERNET;TYPE=WORK:steffen.vogel@rwth-aachen.de
+EMAIL;TYPE=INTERNET;TYPE=HOME:post@steffenvogel.de
+EMAIL;TYPE=INTERNET;TYPE=OTHER:steffen@vogel.cc
+REV:2014-03-02T03:12:41Z(2)
+X-EVOLUTION-BLOG-URL:http://www.noteblok.net
+X-KADDRESSBOOK-BlogFeed:http://www.noteblok.net
+X-JABBER;TYPE=HOME:steffen.vogel@jabber.rwth-aachen.de
+X-ICQ;TYPE=HOME:236033
+X-TWITTER;TYPE=HOME:stv0g
+X-ANNIVERSARY:1990-03-20
+X-GENDER:Male
+END:VCARD
